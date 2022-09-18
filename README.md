@@ -9,7 +9,7 @@ I have a Ph.D. in Mechanical Engineering in which I worked with the Finite Volum
 - 🔭 I’m currently working at [ESSS](https://github.com/ESSS?type=source) as a Scientific Developer. 
 - 🌱 I’m currently learning about Uncertainty Quantification of numerical models.
 - :droplet:    I'm interested in Scientific Programming applied to Oil & Gas Industry.
-- :man_technologist: I'm interested mainly in C/C++ and Python. However, I like to learn any programming language.
+- :man_technologist: I enjoy programming mainly in C/C++ and Python. However, I like to learn any programming language.
 - ⚡ Fun facts: 
   - :vulcan_salute: I love Science Fiction such as Star Wars, Star Trek, The Matrix, and Back to The Future. 
   - :feelsgood: I love the video game franchise DOOM.
