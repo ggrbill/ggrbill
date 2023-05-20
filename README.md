@@ -6,6 +6,7 @@ I have a Ph.D. in Mechanical Engineering in which I worked with the Finite Volum
 
 ## About me
 
+- 👨‍🏫 I'm Adjunt Professor at [UDESC](https://www.udesc.br) teaching Reservoir Engineering in the Petroleum Engineering Department.
 - 🔭 I’m currently working at [ESSS](https://github.com/ESSS?type=source) as a Scientific Developer. 
 - 🌱 I’m currently learning about Uncertainty Quantification of numerical models.
 - :droplet:    I'm interested in Scientific Programming applied to Oil & Gas Industry.
