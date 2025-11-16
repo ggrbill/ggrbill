@@ -6,8 +6,7 @@ I have a Ph.D. in Mechanical Engineering, in which I worked with the Finite Volu
 
 ## About me
 
-- 👨‍🏫 I'm Adjunt Professor at [UDESC](https://www.udesc.br) teaching Reservoir Engineering in the Petroleum Engineering Department.
-<!-- - 🔭 I’m currently working at [ESSS](https://github.com/ESSS?type=source) as a Scientific Developer. -->
+- 👨‍🏫 I'm Adjunct Professor at [UDESC](https://www.udesc.br) teaching Reservoir Engineering in the Petroleum Engineering Department.
 - 🌱 I’m currently learning about the Numerical model of seismic waves for porous media characterization.
 - :droplet:    I'm interested in Scientific Programming applied to Oil & Gas Industry.
 - :man_technologist: I enjoy programming mainly in C/C++ and Python. However, I like to learn any programming language.
@@ -18,6 +17,7 @@ I have a Ph.D. in Mechanical Engineering, in which I worked with the Finite Volu
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggrbill&label=Profile%20views&color=0e75b6&style=flat" alt="ggrbill" /> </p>
 
+<!-- - 🔭 I’m currently working at [ESSS](https://github.com/ESSS?type=source) as a Scientific Developer. -->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
